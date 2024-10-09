@@ -18,7 +18,7 @@ def send_email_via_mailgun(recipient_email, paper_title):
         
         <strong>**Please note that not everyone on your team will have received this email; confirm with your team to register your paper.</strong><br><br>
 
-        If you are interested, please use the following link to register your paper: <a href='https://forms.gle/eiUB6ZM94HanavaT6'>Registration Link</a>.<br>
+        If you are interested, please use the following link to register your paper: <a href=''>Registration Link</a>.<br>
 
         
         This code is <strong>UNIQUE</strong> to your research paper. Enter it in the appropriate field when registering. <strong>Do NOT share this code with anyone.</strong> <br><br>
